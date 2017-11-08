@@ -1,5 +1,5 @@
-Sample *React* project utilizing various react libraries for animations (*react-slick, react-reveal, react-transition-group*)...
-Also utilizes *react-router*.
+Sample **React** project utilizing various react libraries for animations (**react-slick, react-reveal, react-transition-group**)...
+Also utilizes **react-router**.
 
 Dummy database included in db.json file, and run with npm package *json-server*. 
 
