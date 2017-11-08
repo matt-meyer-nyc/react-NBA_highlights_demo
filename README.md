@@ -10,7 +10,7 @@ To run project:
 4. to start dummy db, run _'json-server --watch db.json'_
 
 
-Project created with guidance from Coding Revolution's Udemy Course _'The complete React and Redux course: Build modern apps'_
+######Project created with guidance from Coding Revolution's Udemy Course _'The complete React and Redux course: Build modern apps'_
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
