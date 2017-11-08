@@ -1,13 +1,13 @@
-Sample React project utilizing various react libraries for animations (react-slick, react-reveal, react-transition-group)...
-Also utilizes react-router.
+Sample React project utilizing various react libraries for animations (*react-slick, react-reveal, react-transition-group*)...
+Also utilizes *react-router*.
 
-Dummy database included in db.json file, and run with npm package json-server. 
+Dummy database included in db.json file, and run with npm package *json-server*. 
 
 To run project:
 1. clone or download project files from root folder _'4_nba_highlights_demo'_
-2. assuming you've insalled node already, run 'npm install'
-3. to start React server run 'npm start'
-4. to start dummy db, run 'json-server --watch db.json'
+2. assuming you've insalled node already, run _'npm install'_
+3. to start React server run _'npm start'_
+4. to start dummy db, run _'json-server --watch db.json'_
 
 
 Project created with guidance from Coding Revolution's Udemy Course _'The complete React and Redux course: Build modern apps'_
