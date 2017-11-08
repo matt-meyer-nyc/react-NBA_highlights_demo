@@ -12,6 +12,7 @@ To run project:
 
 Project created with guidance from Coding Revolution's Udemy Course _'The complete React and Redux course: Build modern apps'_
 
+--------------------------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
